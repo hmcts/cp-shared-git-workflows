@@ -1,2 +1,2 @@
 # cp-shared-git-workflows
-This is define any shared workflows that can be used by appplications
+This is repo is maintain any shared git workflows that can be used by applications
